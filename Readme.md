@@ -4,4 +4,8 @@ Primeira Edicaoo
 
 Branch New 1 2 3
 
-Conflito Rebase Resolvido
+Conflito Rebase Resolvid
+
+
+
+yuyuyuyuyuuuyuyuyuyuyuyuyuyuyuyo
